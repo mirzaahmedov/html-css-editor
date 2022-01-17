@@ -2,8 +2,6 @@ const brackets = {
   "{": "}",
   "[": "]",
   "(": ")",
-  '"': '"',
-  "'": "'",
 }
 
 const completions = {
